@@ -1,6 +1,6 @@
 # kafka version = 2.7 [latest]
 # https://www.confluent.io/hub/confluentinc/kafka-connect-jdbc
-# get image from strimzi repository
+# get image from strimzi repository testing
 # https://quay.io/repository/strimzi/kafka
 
 FROM quay.io/strimzi/kafka:latest-kafka-2.7.0
