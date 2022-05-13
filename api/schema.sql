@@ -10,7 +10,7 @@ CREATE TABLE public.customers (
 	profissao text NULL,
 	dt_update timestamp NULL,
 	CONSTRAINT customers_pkey PRIMARY KEY (id)
-);
+);--updating
 
 CREATE TABLE public.flight (
 	id serial NOT NULL,
