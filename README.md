@@ -17,7 +17,6 @@
 ## 📝 Conteúdo
 
 - [Arquitetura](#architeture)
-- [Autor](#authors)
 
 ## Arquitetura Orientada a Eventos <a name = "about"></a>
 
@@ -33,7 +32,3 @@
 - Apache Pinot
 - KsqlDB
 - Python 
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@carlosbpy](https://github.com/carlosbpy)
